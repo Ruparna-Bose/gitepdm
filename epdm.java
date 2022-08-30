@@ -1,7 +1,7 @@
 package streamapi;
 //Java Program to illustrate FILTER & COLLECT Operations
 
-//Importing input output classes
+
 import java.io.*;
 
 //Importing utility class for List and ArrayList classes
